@@ -123,4 +123,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-generator/train-images/
+.png
+train_images/
